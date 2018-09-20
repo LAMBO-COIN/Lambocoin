@@ -17,6 +17,7 @@ Confirmations 4 blocks
 Wallet Download:
 
 https://mega.nz/#!dtJlGLzS!BNjc7igE5qZaBiQPQEBcbTSFuLmoq-25ZvYW_vPr0zI
+
 Block Explorer:
 
 http://blockexplorer.biz:3002/
